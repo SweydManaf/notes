@@ -1,4 +1,4 @@
-cap.13.1 - Circulo cromático
+cap.13.2 - Circulo cromático
 
 # O círculo cromático
 

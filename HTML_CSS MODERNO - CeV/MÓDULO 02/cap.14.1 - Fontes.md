@@ -1,4 +1,4 @@
-cap.14 - Fontes
+cap.14.1 - Fontes
 
 # Tipografia
 
@@ -20,7 +20,7 @@ As fontes são conjuntos de glifos que formam uma família tipográfica. O termo
 
 # Anatomia do tipo
 
-![314210b8b6da3e24a08b091a1bfcfa33.png](../_resources/6d6b89a11e594ee48984b3ffc65f0585.png)![8cbaae4977ee23873506d9fae921cbf4.png](../_resources/a28e637ab8134de1bfddc2a55e10ef05.png)
+![314210b8b6da3e24a08b091a1bfcfa33.png](../../_resources/6d6b89a11e594ee48984b3ffc65f0585.png)![8cbaae4977ee23873506d9fae921cbf4.png](../../_resources/a28e637ab8134de1bfddc2a55e10ef05.png)
 
 ## Características geométricas
 

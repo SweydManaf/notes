@@ -1,4 +1,4 @@
-cap.14.1 - Aplicando as fontes, tamanhos e estilos
+cap.14.2 - Aplicando as fontes, tamanhos e estilos
 
 # Como aplicar isso na prática?
 
@@ -49,3 +49,11 @@ p{
  	font: italic bold 1em Arial, Helvetica, sans-serif;
  }
 ```
+
+A ordem dos atributos de uma *shorthand é importante. No caso da propriedade `font`, devemos* informar na ordem: 
+
+- font-style
+- font-variante
+- font-weight
+- font-size/line-height
+- font-family
