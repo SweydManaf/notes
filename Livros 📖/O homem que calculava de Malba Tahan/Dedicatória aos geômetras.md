@@ -1,0 +1,12 @@
+Dedicatória aos geômetras
+
+# Oito são os geômetras que  Malba Tahan dedicou o livro
+
+- **René Descartes**, geômetra e filósofo francês (1595-1650). Estranhamente original em todos os ramos da ciência. Criador da geometria analítica. Na Antologia da matemática, poderá o leitor encontrar a biografia desse imortal pesquisador dos domínios abstratos. Era cristão.
+- **Blaise Pascal**, geômetra e filósofo francês (1623-1662). Deixou um traço profundo de sua genialidade na geometria: o célebre teorema de Pascal. Inventou, antes de qualquer outro, a primeira máquina de calcular. E apontado como um dos fundadores do cálculo das probabilidades. Era cristão católico.
+- **Isaac Newton**, astrônomo e matemático inglês (1642-1727). Formulou a lei da gravitação universal. Para um estudo completo da vida de Newton, convém ler Antologia da matemática. Era cristão protestante.
+- **Gottfried Wilhelm von Leibniz**, matemático e filósofo alemão (1646-1716). Lançou os fundamentos do cálculo diferencial. Era cristão protestante.
+- **Leonardo Euler**, matemático suíço (1707-1783). O mais fecundo dos geômetras. Calcula-se que tenha escrito cerca de mil e duzentas memórias sobre questões da ciência. Era cristão protestante.
+- **Joseph-Louis Lagrange**, matemático francês, mas italiano de nascimento (1736-1813). Verdadeiramente genial em suas pesquisas em todos os quadrantes da ciência. Elaborou a famosa Mecânica analítica, um dos marcos no progresso da matemática. A mais nobre e a mais abstrata das ciências, em honra desse notável analista, é denominada “ciência de Lagrange”. Era cristão católico.
+- **Augusto Comte**, filósofo e matemático francês (1798-1857). Fundador do Positivismo. O seu Curso de filosofia positiva pode ser apontado como uma das obras capitais da filosofia no século XIX. Era agnóstico. A sua Geometria analítica foi de alto relevo para o progresso da matemática.
+- **Al-Kharismi**, matemático e astrônomo persa. Viveu na primeira metade do século IX. Contribuiu Al-Kharismi, de forma notável, para o progresso da matemática. A ele devemos, entre outras coisas, na grafia dos números, o sistema de posição, isto é, o sistema no qual cada algarismo tem um valor conforme a posição que ocupa no número. Era muçulmano.
