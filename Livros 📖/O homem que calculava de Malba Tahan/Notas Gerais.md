@@ -1,5 +1,3 @@
-Notas Gerais
-
 # O homem que calculava
 
 Trata-se de um livro muito original, que revela o profundo conhecedor da cultura do Islã e da ciência matemática. Em seus livros, triunfa uma visão que faz da ciência uma aventura tão maravilhosa quanto a mais imaginosa obra de ficção.

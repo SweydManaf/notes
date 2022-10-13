@@ -1,5 +1,3 @@
-Elogios a Matemática
-
 # Alguns pensamentos sobre a matemática
 
 - A matemática é a honra do espírito humano. - Leibniz.

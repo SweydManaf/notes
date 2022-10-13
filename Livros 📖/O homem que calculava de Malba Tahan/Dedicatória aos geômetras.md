@@ -1,5 +1,3 @@
-Dedicatória aos geômetras
-
 # Oito são os geômetras que  Malba Tahan dedicou o livro
 
 - **René Descartes**, geômetra e filósofo francês (1595-1650). Estranhamente original em todos os ramos da ciência. Criador da geometria analítica. Na Antologia da matemática, poderá o leitor encontrar a biografia desse imortal pesquisador dos domínios abstratos. Era cristão.
