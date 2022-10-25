@@ -1,3 +1,9 @@
+---
+title: cap.09 - Listas com HTML5
+updated: 2021-02-12 14:12:10Z
+created: 2021-02-12 14:00:09Z
+---
+
 # RESUMO SOBRE LISTAS COM HTML5
 
 - Na construção das **listas ordenadas** e nas **listas não ordenadas**, o uso da tag `<li>` se repete.

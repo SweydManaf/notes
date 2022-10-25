@@ -1,3 +1,9 @@
+---
+title: 'cap.16.2 - Tags semânticas '
+updated: 2021-06-12 13:55:13Z
+created: 2021-06-12 13:45:28Z
+---
+
 # Grouping Tags e Semantic Tags
 
 ## Header

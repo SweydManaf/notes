@@ -1,3 +1,9 @@
+---
+title: cap.14.2 - Aplicando as fontes, tamanhos e estilos
+updated: 2021-06-04 19:28:38Z
+created: 2021-04-19 17:10:46Z
+---
+
 # Como aplicar isso na prática?
 
 Para configurar a família tipográfica que será aplicada a um determinado texto, usamos a propriedade `font-family` das CSS. Se indicarmos mais de uma família na sequência, estamos indicando ao navegador que dê preferência para a primeira. Caso ela não seja encontrada, tente a próxima. E essa estratégia se seguirá até a última, que geralmente é a família genérica **serif**, **sans-serif** ou **monospaced**.

@@ -1,3 +1,9 @@
+---
+title: cap.09.1 - Listas ordenadas com HTML5
+updated: 2021-02-12 14:06:43Z
+created: 2021-02-12 13:37:53Z
+---
+
 ## Listas Ordenas
 
 Em HTML é chamada de  **ordered lists** todas aquelas listas onde a ordem do itens é algo muito importante. Um passo-a-passo para criar um bolo, uma lista com os carros mais caros do mundo são exemplos de listas ordenadas.

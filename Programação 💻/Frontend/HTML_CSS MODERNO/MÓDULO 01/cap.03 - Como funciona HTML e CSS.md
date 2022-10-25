@@ -1,3 +1,9 @@
+---
+title: cap.03 - Como funciona HTML e CSS
+updated: 2021-02-11 13:08:13Z
+created: 2021-02-09 12:30:20Z
+---
+
 ## ESTRUTURA BÁSICA DE UM DOCUMENTO HTML
 
 ```html

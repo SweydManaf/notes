@@ -1,3 +1,9 @@
+---
+title: cap.2.6. Drop-down list
+updated: 2021-03-11 22:35:04Z
+created: 2021-03-11 22:24:45Z
+---
+
 # Drop-down list
 
 Muitos formulários permitem que os usuários selecionem um ou mais itens de uma lista de opções. Essa seleção pode ser realizada através de um **drop-down list**. Para adicionar esse tipo de componente, devemos utilizar o elemento `select`. Normalmente, o `select` é definido pelos navegadores como **inline-level element**.

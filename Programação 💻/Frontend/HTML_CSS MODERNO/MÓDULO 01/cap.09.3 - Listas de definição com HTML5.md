@@ -1,3 +1,9 @@
+---
+title: cap.09.3 - Listas de definição com HTML5
+updated: 2021-02-12 14:07:57Z
+created: 2021-02-12 13:54:23Z
+---
+
 ## Listas de definição
 
 É como se fosse um dicionário, temos os termos e as suas descrições. É uma lista sem demarcadores, mas bem útil em alguns casos.

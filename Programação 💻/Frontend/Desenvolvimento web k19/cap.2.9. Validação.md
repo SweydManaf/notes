@@ -1,3 +1,9 @@
+---
+title: cap.2.9. Validação
+updated: 2021-03-13 00:20:05Z
+created: 2021-03-13 00:12:35Z
+---
+
 # Validação
 
 Alguns recursos para realizar a validação dos campos de um formulário foram adicionados no HTML5. Essas validações ocorrem antes do envio dos formulários. Por padrão, algumas validações são realizadas automaticamente de acordo com o tipo do campo. Por exemplo, os navegadores verificam se o conteúdo de uma caixa de email é um email válido e ai vai.

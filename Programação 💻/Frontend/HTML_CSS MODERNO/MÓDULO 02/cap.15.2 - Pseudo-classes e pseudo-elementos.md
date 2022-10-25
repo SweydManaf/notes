@@ -1,3 +1,9 @@
+---
+title: cap.15.2 - Pseudo-classes e pseudo-elementos
+updated: 2021-06-04 20:15:03Z
+created: 2021-06-04 20:02:51Z
+---
+
 # Pseudo-classes
 
 Uma **pseudo-classe CSS** é uma palavra-chave adicionada às declarações de um seletor após um sinal de dois pontos e especificam um estado especial de um elemento. Existem várias pseudo-classes para estilos, podemos citar **:hover**, **:visited**, **:active**, **:checked**, **:empty** e **:focus**.

@@ -1,3 +1,9 @@
+---
+title: Manipulando pastas e arquivos
+updated: 2021-08-14 17:03:56Z
+created: 2021-08-14 16:07:25Z
+---
+
 # Módulos `shutil`, `os`
 
 O módulo **shutil** (shell utilities, ou utilitários de shell) contém funções que permitem copiar, mover, renomear e apagar arquivos em seus programas Python. Para usar as funções de shutil, inicialmente você deverá usar `import shutil`.

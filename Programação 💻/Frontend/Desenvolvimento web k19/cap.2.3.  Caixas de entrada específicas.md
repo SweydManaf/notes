@@ -1,3 +1,9 @@
+---
+title: cap.2.3.  Caixas de entrada específicas
+updated: 2021-02-28 11:53:33Z
+created: 2021-02-27 14:14:17Z
+---
+
 # Caixas de entrada específicas
 
 As caixas de texto são componentes muito genéricos. Antes do HTML5, informações de natureza bem distintas eram obtidas através desses componentes. Para melhorar a semântica dos documentos HTML, tipos específicos de caixas foram adicionados no HTML5.

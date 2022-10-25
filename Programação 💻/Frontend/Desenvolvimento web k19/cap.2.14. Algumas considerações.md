@@ -1,3 +1,9 @@
+---
+title: cap.2.14. Algumas considerações
+updated: 2021-03-24 19:14:46Z
+created: 2021-03-23 23:30:36Z
+---
+
 # Formatação de texto
 
 ## Elemento `<i>`

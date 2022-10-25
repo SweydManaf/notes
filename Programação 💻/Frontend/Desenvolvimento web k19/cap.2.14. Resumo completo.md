@@ -1,3 +1,9 @@
+---
+title: cap.2.14. Resumo completo
+updated: 2021-03-25 17:56:03Z
+created: 2021-03-25 17:40:34Z
+---
+
 # Resumo completo sobre o HTML
 
 - A linguagem HTML é utilizada na criação das páginas web e é especificada pelo **W3C**.

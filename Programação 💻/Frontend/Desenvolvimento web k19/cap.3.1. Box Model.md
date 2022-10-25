@@ -1,3 +1,9 @@
+---
+title: cap.3.1. Box Model
+updated: 2021-03-30 23:47:20Z
+created: 2021-03-30 23:24:27Z
+---
+
 <img src="../../../_resources/box-model.png" alt="box-model.png" width="519" height="318">
 
 Na imagem, os boxes dos **block-level elements** foram exibidos com **linha contínua** enquanto os boxes dos **inline-level elements** foram exibidos com **linha tracejada**. Os boxes dos block-level elements ocupam todo o espaço horizontal e provocam quebras de linha. Por outro lado, os boxes dos inline-level elements ocupam horizontalmente somente o espaço necessário para o seu conteúdo e não provocam quebras de linha.

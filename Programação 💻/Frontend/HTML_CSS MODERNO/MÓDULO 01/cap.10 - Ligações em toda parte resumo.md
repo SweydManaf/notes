@@ -1,3 +1,9 @@
+---
+title: cap.10 - Ligações em toda parte resumo
+updated: 2021-02-13 16:13:05Z
+created: 2021-02-12 14:12:32Z
+---
+
 > APRENDA MAIS: Veja com mais detalhes como funcionam os algoritmos fundamentais de busca assistindo esse vídeo do próprio Google, onde o engenheiro Matt Cutts explica o mecanismo básico da ferramenta mais valiosa do mundo. Habilite as legendas em PT-BR.
 > 
 > Google: https://youtu.be/BNHR6IQJGZs

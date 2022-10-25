@@ -1,3 +1,9 @@
+---
+title: cap.3.2. Transição
+updated: 2021-04-06 15:12:18Z
+created: 2021-04-06 13:58:19Z
+---
+
 # Posicionamento
 
 Como vimos anteriormente, as regras CSS podem ser aplicadas aos elementos HTML de acordo com o estado atual do mesmo. Por exemplo, considere as duas regras CSS a seguir.

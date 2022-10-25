@@ -1,3 +1,9 @@
+---
+title: cap.14.1 - Fontes
+updated: 2021-06-04 19:28:43Z
+created: 2021-04-19 15:08:09Z
+---
+
 # Tipografia
 
 O mundo da tipografia se inicia em **1450**, com o inventor Alemão **Johannes Gutenberg**, criador da **prensa mecânica de tipos móveis**. Na verdade, os Chineses foram os primeiros a criarem o conceito de prensa com tipos móveis, mas Gutenberg acabou sendo reconhecido como aquele que deu início à Revolução da Imprensa. Antes disso tudo, cada exemplar de um livro era reproduzido através de material manuscrito devidamente copiado, palavra por palavra, até atingir o resultado desejado.

@@ -1,3 +1,9 @@
+---
+title: cap.12 - Trabalhando com estilos resumo
+updated: 2021-06-04 19:30:52Z
+created: 2021-02-16 14:13:58Z
+---
+
 # Resumo
 
 - A sigla **CSS** significa **Cascading Style Sheets.**

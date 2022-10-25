@@ -1,3 +1,9 @@
+---
+title: cap.09.2 - Listas não ordenadas com HTML5
+updated: 2021-02-12 14:07:10Z
+created: 2021-02-12 13:47:37Z
+---
+
 ## Listas não ordenas
 
 Se você compreendeu a criação de listas ordenadas, com certeza vai entender as **unordered lists**, também chamadas de listas com marcadores, que são aquelas onde a ordem dos itens não influenciará no significado da lista. Ela é apenas uma ótima maneira para organizar os itens que não apresentam uma classificação necessariamente.

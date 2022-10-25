@@ -1,3 +1,9 @@
+---
+title: cap.2.1. Tabelas
+updated: 2021-02-28 11:53:25Z
+created: 2021-02-27 10:48:57Z
+---
+
 # Tabelas
 
   Suponha que você esteja desenvolvendo o site de uma empresa e precisa apresentar alguns relatórios em documentos HTML. Considere que os dados desses relatórios são obtidos a partir de

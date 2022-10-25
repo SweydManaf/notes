@@ -1,3 +1,9 @@
+---
+title: Zipando arquivos
+updated: 2021-08-14 17:28:36Z
+created: 2021-08-14 16:57:25Z
+---
+
 # Compactando arquivos com módulo `zipfile`
 
 Compactar um arquivo reduz seu tamanho, o que é útil quando transferimos esse arquivo pela Internet. Como um arquivo ZIP também pode conter vários arquivos e subpastas, essa é uma maneira conveniente de empacotar diversos arquivos em um só. Esse arquivo único (archive file) pode então ser, por exemplo, anexado a um email.

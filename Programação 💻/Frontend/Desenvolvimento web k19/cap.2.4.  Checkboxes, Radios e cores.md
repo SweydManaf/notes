@@ -1,3 +1,9 @@
+---
+title: cap.2.4.  Checkboxes, Radios e cores
+updated: 2021-02-28 11:53:38Z
+created: 2021-02-27 14:32:34Z
+---
+
 # Checkboxes e Radios
 
 Para adicionar um **checkbox** em um formulário, devemos utilizar o elemento `<input>` com `type` igual a **checkbox**. Ao utilizar esse componente, é importante definir um valor para o atributo `value`. No envio do formulário, esse valor é transmitido ao Web Server se o **checkbox** correspondente estiver marcado.

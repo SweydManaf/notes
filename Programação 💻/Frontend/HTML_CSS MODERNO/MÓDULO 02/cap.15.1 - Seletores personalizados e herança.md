@@ -1,3 +1,9 @@
+---
+title: 'cap.15.1 - Seletores personalizados e herança '
+updated: 2021-06-04 20:02:32Z
+created: 2021-06-04 19:36:44Z
+---
+
 # Personalizando Seletores
 
 Para começar a dar mais poder às CSS, criando estilos personalizados, precisamos aprender a utilizar os seletores de id (**#**) e de class (**.**) de maneira eficiente. Ao criar nosso conteúdo

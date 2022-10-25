@@ -1,3 +1,9 @@
+---
+title: cap.13.3 - Aplicando as cores
+updated: 2021-06-04 19:28:16Z
+created: 2021-03-10 18:03:13Z
+---
+
 # Aplicando cores no site
 
 Existem vários sites e serviços que vão te ajudar na escolha da paleta de cores do seu site. A que vai permitir mais opções, na minha opinião é o Adobe Color (disponível em [color.adobe.com](https://color.adobe.com/pt/)), que tem recursos gratuitos para te auxiliar na escolha das suas cores baseado nos esquemas de harmonia que vimos anteriormente.

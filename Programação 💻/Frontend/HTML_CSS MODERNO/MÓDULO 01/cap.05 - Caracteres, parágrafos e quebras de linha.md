@@ -1,3 +1,9 @@
+---
+title: cap.05 - Caracteres, parágrafos e quebras de linha
+updated: 2021-03-16 23:09:22Z
+created: 2021-02-09 12:47:38Z
+---
+
 ## Resumo Parágrafo, quebras de linha, símbolos e emojis
 
 - Se quisermos representar os símbolos `< >` no nosso conteúdo usamos `&lt;` e `&gt;` respectivamente.

@@ -1,3 +1,9 @@
+---
+title: cap.13 - Resumo
+updated: 2021-08-11 16:26:01Z
+created: 2021-03-11 20:52:39Z
+---
+
 # Resumo cores
 
 - O azul é a cor com maior taxa de aceitação e menor rejeição que existe.

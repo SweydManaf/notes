@@ -1,3 +1,9 @@
+---
+title: cap.16.1 - Modelo de caixas
+updated: 2021-06-12 13:45:13Z
+created: 2021-06-12 13:08:04Z
+---
+
 Modelo de caixas
 
 ## O que é uma caixa?

@@ -1,3 +1,12 @@
+---
+title: Live de Python 75 - Testes de Unidade
+updated: 2021-08-25 16:25:12Z
+created: 2021-08-25 15:48:43Z
+latitude: -25.97070000
+longitude: 32.60100000
+altitude: 0.0000
+---
+
 # Testes
 
 ## Para quê testes?

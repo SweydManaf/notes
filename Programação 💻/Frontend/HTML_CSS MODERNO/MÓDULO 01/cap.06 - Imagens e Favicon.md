@@ -1,3 +1,9 @@
+---
+title: cap.06 - Imagens e Favicon
+updated: 2021-02-11 13:15:33Z
+created: 2021-02-11 12:20:50Z
+---
+
 ## Links para encontrar imagens de domínio publico:
 
 - [UnSplash](/tmp/.mount_Joplinf3mLek/:/app/unsplash.com)

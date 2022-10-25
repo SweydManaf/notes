@@ -1,3 +1,9 @@
+---
+title: cap.01 - Historia da internet
+updated: 2021-02-11 13:02:18Z
+created: 2021-02-09 12:20:28Z
+---
+
 # Resumo da historia da internet
 
 Documentário sobre a internet: [https://youtu.be/TNQsmPf24go](https://youtu.be/TNQsmPf24go "DOCUMENTARIO SOBRE A INTERNET")

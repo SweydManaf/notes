@@ -1,3 +1,9 @@
+---
+title: Live de Python 19 - Expressões regulares
+updated: 2021-08-06 16:34:19Z
+created: 2021-08-06 15:25:22Z
+---
+
 # Expressões regulares
 
 ## O que são expressões regulares?

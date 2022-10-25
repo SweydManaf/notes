@@ -1,3 +1,9 @@
+---
+title: cap.17 - Primeiro mini-projeto
+updated: 2021-08-11 16:22:17Z
+created: 2021-08-11 15:50:33Z
+---
+
 # A ideia do projeto
 
 A ideia inicial é criar uma espécie de site de notícias, só que com uma notícia só 😅 . O objetivo aqui é apenas ensinar como organizar o conteúdo e apresentá-lo em forma de página Web.

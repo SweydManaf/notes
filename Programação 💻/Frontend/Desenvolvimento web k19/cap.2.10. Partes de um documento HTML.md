@@ -1,3 +1,9 @@
+---
+title: cap.2.10. Partes de um documento HTML
+updated: 2021-03-13 01:03:53Z
+created: 2021-03-13 00:20:20Z
+---
+
 # Partes de um documento HTML
 
 Normalmente, um documento HTML pode ser dividido em “pedaços”. Por exemplo, é comum existir cabeçalhos, rodapés e menus de navegação na maior parte das páginas web. No HTML5, diversos elementos foram adicionados para definir especificamente os principais “pedaços” que geralmente um documento HTML possui.

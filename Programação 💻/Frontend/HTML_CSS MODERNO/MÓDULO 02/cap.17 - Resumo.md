@@ -1,3 +1,9 @@
+---
+title: 'cap.17 - Resumo '
+updated: 2021-08-11 16:25:14Z
+created: 2021-08-11 15:52:57Z
+---
+
 # Primeiro mini projeto
 
 - Antes de começar a construir um site uma das técnicas é desenhar a sua estrutura em forma de grades, mais conhecido como **wireframe**.

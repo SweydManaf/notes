@@ -1,3 +1,9 @@
+---
+title: cap.16 - Resumo
+updated: 2021-08-11 16:25:26Z
+created: 2021-06-12 13:56:27Z
+---
+
 # Resumo
 
 - A grande maioria dos elementos HTML são considerados como contêineres que podem guardar conteúdos ou outros contêineres. Este conceito em inglês é conhecido por box model.

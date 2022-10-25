@@ -1,3 +1,9 @@
+---
+title: Live de Python 16 - Manipulando arquivos e diretórios
+updated: 2021-08-14 12:33:57Z
+created: 2021-08-12 14:38:43Z
+---
+
 # Manipulação de arquivos e diretórios
 
 ## Bibliotecas

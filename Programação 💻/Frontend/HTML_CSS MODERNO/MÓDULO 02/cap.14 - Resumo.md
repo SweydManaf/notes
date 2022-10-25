@@ -1,3 +1,9 @@
+---
+title: cap.14 - Resumo
+updated: 2021-08-11 16:25:53Z
+created: 2021-04-19 17:24:57Z
+---
+
 # Resumo
 
 - A tipografia é uma arte antiga cujo nome vem da junção de duas palavras gregas. ***týpos*** que significa impressão e ***graphía*** que significa escrita.

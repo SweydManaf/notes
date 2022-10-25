@@ -1,3 +1,9 @@
+---
+title: cap.11 - Imagens, áudios, vídeos resumo
+updated: 2021-03-11 21:16:50Z
+created: 2021-02-15 14:39:27Z
+---
+
 # Resumo
 
 - Use sempre a imagem com qualidade e resolução balanceadas.

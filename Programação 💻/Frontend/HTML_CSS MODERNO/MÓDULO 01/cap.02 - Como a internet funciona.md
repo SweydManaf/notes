@@ -1,3 +1,9 @@
+---
+title: cap.02 - Como a internet funciona
+updated: 2021-02-11 13:05:00Z
+created: 2021-02-09 12:26:36Z
+---
+
 # Resumo de como a internet funciona
 
 - Atualmente, a maioria das transmissões feitas mundialmente pela Internet passam por baixo da água em cabos submarinos.

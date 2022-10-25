@@ -1,3 +1,9 @@
+---
+title: cap.10.1 - Ligações em toda parte detalhado
+updated: 2021-03-11 20:53:39Z
+created: 2021-02-13 15:18:56Z
+---
+
 # Criando links
 
 Para criar um hyperlink, devemos criar âncoras através da tag `<a>`. O principal atributo dessa tag é o `href`, que cria uma referência hipertexto. Vamos ver um exemplo simples:

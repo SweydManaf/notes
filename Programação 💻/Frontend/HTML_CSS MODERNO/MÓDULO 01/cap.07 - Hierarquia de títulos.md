@@ -1,3 +1,9 @@
+---
+title: cap.07 - Hierarquia de títulos
+updated: 2021-02-12 14:18:51Z
+created: 2021-02-12 04:42:23Z
+---
+
 # RESUMO SOBRE HIERARQUIA DE TÍTULOS NO HTML
 
 - Normalmente os textos são organizados em sessões, e cada uma pode possuir um titulo. Em HTML5 um texto pode ter vários títulos, mas apenas um máximo de seis níveis.

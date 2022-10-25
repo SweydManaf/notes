@@ -1,3 +1,9 @@
+---
+title: cap.2 - HTML
+updated: 2021-02-27 10:48:47Z
+created: 2021-02-22 13:51:46Z
+---
+
 # Introdução
 
 Quando acessamos uma página web, estamos interessados na informação contida nessa página.

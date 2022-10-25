@@ -1,3 +1,9 @@
+---
+title: Resumo
+updated: 2021-08-18 16:58:26Z
+created: 2021-08-18 16:56:22Z
+---
+
 As **asserções**, as **exceções**, o **logging** e o **debugger** são ferramentas valiosas para encontrar e evitar bugs em seu programa.
 
 As asserções com a instrução `assert` do Python são uma ótima maneira de implementar “**verificações de sanidade**” que avisarão com antecedência quando uma condição necessária não for verdadeira. As asserções servem somente para os erros dos quais o

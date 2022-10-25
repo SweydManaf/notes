@@ -1,3 +1,9 @@
+---
+title: cap.11.2 - Áudios
+updated: 2021-03-11 20:52:17Z
+created: 2021-02-15 14:10:49Z
+---
+
 # Áudios otimizados
 
 Com a HTML5, veio também a facilidade em compartilhar áudio nos nossos sites e sem depender necessariamente de JavaScript ou plugins extras. A partir de agora, basta uma tag `<audio>` e alguns `<source>` para fazer seu site ser capaz de tocar qualquer áudio.

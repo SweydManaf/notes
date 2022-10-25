@@ -1,3 +1,9 @@
+---
+title: cap.11.1 - Imagens dinâmicas
+updated: 2021-03-11 20:52:11Z
+created: 2021-02-15 13:52:31Z
+---
+
 # Imagens Flexíveis
 
 Nosso primeiro passo no caminho de adaptar nosso conteúdo ao tamanho da tela vai ser aprender a gerar imagens de tamanho diferentes e a fazer o navegador carregar a imagem certa para cada situação. Para isso, devemos conhecer as tags `<picture>` e `<source>`.

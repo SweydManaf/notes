@@ -1,3 +1,9 @@
+---
+title: cap.2.2. Formulários
+updated: 2022-10-16 17:33:22Z
+created: 2021-02-27 12:27:44Z
+---
+
 # Formulários
 
 Para tornar os sites e as aplicações web mais interativos, podemos utilizar formulários. Através

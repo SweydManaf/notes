@@ -1,3 +1,9 @@
+---
+title: cap.08 - Formatações de texto
+updated: 2021-03-23 23:28:11Z
+created: 2021-02-12 13:27:28Z
+---
+
 # RESUMO SOBRE FORMATAÇÕES DE TEXTOS EM HTML5
 
 > Semântica é o significado dos vocábulos, por oposição à sua forma.

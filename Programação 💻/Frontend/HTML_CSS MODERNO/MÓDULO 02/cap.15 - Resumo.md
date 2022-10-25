@@ -1,3 +1,9 @@
+---
+title: cap.15 - Resumo
+updated: 2021-08-11 16:25:46Z
+created: 2021-06-04 20:15:22Z
+---
+
 # Resumo
 
 - Em um mesmo documento HTML, vários elementos podem possuir o mesmo **class** para criarmos formatações em grupo com CSS, mas só podemos ter um elemento com \*\*id \*\*único para criar formatações individuais.

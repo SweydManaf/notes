@@ -1,3 +1,9 @@
+---
+title: cap.11.3 - Vídeos
+updated: 2021-03-11 20:52:21Z
+created: 2021-02-15 14:22:16Z
+---
+
 # Vídeos
 
 Para inserir um vídeo em nosso site, podemos utilizar a nova tag `<video>` da HTML5, caso o arquivo esteja hospedado no nosso próprio servidor. 

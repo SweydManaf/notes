@@ -1,3 +1,9 @@
+---
+title: cap.13.2 - Circulo cromático
+updated: 2021-06-04 19:28:21Z
+created: 2021-03-09 01:27:53Z
+---
+
 # O círculo cromático
 
 Dentro da teoria das cores, precisamos separá-las em grupos para que possamos decidir se as escolhas que vamos fazer para o nosso site vão fazer um sentido harmônico e para que os nossos visitantes olhem para o nosso projeto e instintivamente pense: “- nossa, que bonito!”.

@@ -1,3 +1,9 @@
+---
+title: cap.13.1 - Cores
+updated: 2021-06-04 19:27:51Z
+created: 2021-03-09 01:07:37Z
+---
+
 # A emoção das cores
 
 Jamais subestime o poder das cores, elas podem influenciar na quantidade de tempo que seu visitante passa visitando o seu site e pode até mesmo ser um poderoso critério de decisão para uma compra.
