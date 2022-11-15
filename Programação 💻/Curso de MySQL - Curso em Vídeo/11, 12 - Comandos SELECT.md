@@ -1,6 +1,6 @@
-# Comandos SELECT 
+# Comandos SELECT
 
-## PARTE 1 
+## PARTE 1
 
 - Seleciona e exibe todos os registros da tabela
 
@@ -112,4 +112,12 @@ SELECT SUM(totaulas) FROM cursos;
 
 ```sql
 SELECT AVG(totaulas) FROM cursos WHERE ano=2016;
+```
+
+## PARTE 3
+
+Agrupamento
+
+```sql
+SELECT carga, COUNT(*) FROM cursos GROUP BY carga HAVING COUNT(NOME)>3;
 ```
