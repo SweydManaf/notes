@@ -2,7 +2,7 @@
 
 NB: Tabelas: Tabelas são para apresentar conteúdos, não para construir estruturas de sites.
 
-Antes de começar a estudar as tabelas, vamos retirar um assunto da frente. Houve uma época em que os sites eram desenvolvidos como se fossem tabelas. Foi um tempo sombrio e que ficou no passado! 
+Antes de começar a estudar as tabelas, vamos retirar um assunto da frente. Houve uma época em que os sites eram desenvolvidos como se fossem tabelas. Foi um tempo sombrio e que ficou no passado!
 
 Com a evolução das CSS e com o surgimento da HTML na sua versão 5, os sites podem ser criados de forma mais organizada e dinâmica e não dependem mais das tabelas para existir, um movimento do design que ficou conhecido como tabelas layout (traçado sem tabelas).
 
@@ -136,3 +136,21 @@ A pseudo-classe `nth-child()` vai permitir selecionar as linhas pares `(even)` o
 ### Mudando o alcance das células
 
 Podemos fazer a mesclagem de células adicionando o parâmetro `colspan` ou `rowspan`.
+
+### Personalização de colunas
+
+Podemos criar um agrupamento de colunas, definindo um `<colgroup>` dentro da tabela, logo abaixo da tag `<table>`:
+
+```html
+<colgroup>
+    <col class="amarelo">
+    <col class="vermelho" span="2">
+    <col class="amarelo">
+</colgroup>
+```
+
+Isso vai atribuir uma classe a cada coluna (ou conjunto de colunas, quando usamos `span`). Ao criar uma configuração de cor para cada uma dessas três classes (c1, c2 e c3), podemos criar um efeito de configuração em grupos de colunas.
+
+## Tabelas Responsivas
+
+Para resolver essa limitação, principalmente para telas de celular, e garantir a visualização de todos os dados, uma das soluções mais simples é colocar a tabela dentro de uma caixa qualquer (pode ser uma `div`) e configurar a sua propriedade CSS `overflow-x` para os valores **auto** ou **scroll**. Isso vai fazer com que todo e qualquer conteúdo que “transborde” a largura (eixo x) do tamanho do box, vai ganhar uma barra de rolagem horizontal (por se tratar do eixo x apenas) caso seja necessário.
